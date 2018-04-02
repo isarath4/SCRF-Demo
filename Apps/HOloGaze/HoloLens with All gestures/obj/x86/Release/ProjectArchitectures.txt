@@ -1,0 +1,1 @@
+D:\HoloLens_Try\HoloLens with All gestures\Apps\HOloGaze\HoloLens with All gestures\HoloLens with All gestures.csproj;x86
